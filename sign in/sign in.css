@@ -1,0 +1,9 @@
+#sign{
+    margin-top: 110px;
+    border: 2px solid black;
+    border-width: 3px;
+    border-radius: 15px;
+    width: 600px;
+    height: auto;
+    padding: 50px 30px 30px 30px;
+}
